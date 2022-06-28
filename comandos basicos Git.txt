@@ -1,0 +1,4 @@
+Git status - informar status do projeto
+Git add . - passa as informações para o estade de staged 
+Git commit -m "inclusão das anotações do curso de Git/Github"
+Git push origin - envia para o servidor Github
